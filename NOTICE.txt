@@ -1,0 +1,5 @@
+OSD Japanese Utils
+Copyright 2013 OSD
+
+This product includes software developed by
+OSD (http://osd.jp/).
